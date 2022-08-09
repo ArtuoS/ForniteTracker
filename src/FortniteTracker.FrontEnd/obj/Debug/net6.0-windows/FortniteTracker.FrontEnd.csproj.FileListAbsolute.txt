@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\bin\Debug\net6.0-windows\FortniteTracker.FrontEnd.exe
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\bin\Debug\net6.0-windows\FortniteTracker.FrontEnd.deps.json
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\bin\Debug\net6.0-windows\FortniteTracker.FrontEnd.runtimeconfig.json
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\bin\Debug\net6.0-windows\FortniteTracker.FrontEnd.dll
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\bin\Debug\net6.0-windows\FortniteTracker.FrontEnd.pdb
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.Form1.resources
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.AssemblyInfo.cs
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.dll
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\refint\FortniteTracker.FrontEnd.dll
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.pdb
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\FortniteTracker.FrontEnd.genruntimeconfig.cache
+C:\Users\User\source\repos\FortniteTracker\src\FortniteTracker.FrontEnd\obj\Debug\net6.0-windows\ref\FortniteTracker.FrontEnd.dll
